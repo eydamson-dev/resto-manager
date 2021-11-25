@@ -1,4 +1,4 @@
-# Restaurant Schedule App
+ Restaurant Schedule App
 ##### _Test Driven Development[TTD] Example_
 
 ## Installation
@@ -12,11 +12,28 @@ npm i
 npm run dev
 ```
 
-For testing
+To run the system test
 
 ```sh
 npm run test
 ```
+
+### To test the search api
+
+```sh
+http://localhost:3000/seed [GET]
+will seed the mongodb instance from database.json file
+```
+
+```json
+http://localhost:3000/ [GET] with json request data formatted like this:
+(note: the space between the time and the period is important)
+{
+    "days": "mon-fri",
+    "time": "8 am - 5:00 pm"
+}
+```
+
 
 ## Plugins
 This project is dependent with this plugins
