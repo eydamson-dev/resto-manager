@@ -6,6 +6,7 @@
 Install the dependencies and devDependencies and start the server.
 
 ```sh
+set up a mongodb database named 'restaurants' with a collection named 'schedules' 
 create .env file on the root folder
 inside the .env file, write CONNECTION_STRING=[your mongodb connection string]
 npm i
