@@ -1,0 +1,29 @@
+{
+  "restaurants": [
+    {
+      "name": "Pirata Restaurant",
+      "opening_hours": "Mon-Sun 11:30 am - 9 pm"
+    },
+    {
+      "name": "Roganic Causeway Bay",
+      "opening_hours": "Mon-Sun 11 am - 11:30 pm"
+    },
+    {
+      "name": "Rex Wine & Grill",
+      "opening_hours": "Mon-Fri 10 am - 10 pm; Sat-Sun 9 am - 1 am"
+    },
+    {
+      "name": "Hansik Gooo",
+      "opening_hours": "Mon-Thu 9 am - 10:30 pm; Fri 11 am - 11 pm; Sat 11:30 am - 10:30 pm; Sun 4:30 pm - 10:30 pm"
+    },
+    {
+      "name": "Bibi & Baba",
+      "opening_hours": "Thu-Sun 8:30 am - 3 pm"
+    },
+    {
+      "name": "Drink & Club",
+      "opening_hours": "Fri-Sat 5:30 pm - 5:30 am"
+    }
+  ]
+}
+
