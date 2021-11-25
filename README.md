@@ -25,7 +25,7 @@ http://localhost:3000/seed [GET]
 will seed the mongodb instance from database.json file
 ```
 
-```json
+```sh
 http://localhost:3000/ [GET] with json request data formatted like this:
 (note: the space between the time and the period is important)
 {
