@@ -1,4 +1,4 @@
-name: Deploy Seats to Production 
+name: Deploy Seats to Production
 on:
   push:
     branches:
